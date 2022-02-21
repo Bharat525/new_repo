@@ -1,6 +1,6 @@
 {
   "name": "reactapp",
-  "homepage": "https://github.com/Bharat525/new_repo.git",
+  "homepage": "https://Bharat525.gitub.io/new_repo.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,6 +27,7 @@
       "react-app/jest"
     ]
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",
